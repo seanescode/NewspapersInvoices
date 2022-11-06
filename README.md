@@ -15,3 +15,6 @@ newspapers for their supermarkets. This code can be re-used with the relevant lo
 those stores.
 -Also, the various divisions within the supermarket company have a second newspaper vendor. This
 code can be re-used as has been broken up into functions which would be suitable.
+
+Most functions are in newspapers.py file (general methods that can be re-used for the other newspaper vendor. 
+eason.py has functions specific to this vendor. There is also the spreadsheet which has the logins (dummy info put into this). 
